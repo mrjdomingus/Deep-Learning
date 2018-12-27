@@ -2,7 +2,9 @@
 
 ## Debugging idioms
 
-Also see: [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617)
+Also see:
+* [How to get started debugging TensorFlow](https://medium.freecodecamp.org/debugging-tensorflow-a-starter-e6668ce72617)
+* [https://wookayin.github.io/tensorflow-talk-debugging/#1](https://wookayin.github.io/tensorflow-talk-debugging/#1)
 
 **Print tf.Session run-results**
 
